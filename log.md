@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 6, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Working on:** Intro to Computer Science (Udacity)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress:** Learning by solving problem. Now solving calculating how many days exist between two dates.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** It's more complex than I thought. But no problem to solve anyway.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 7, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Working on:** Intro to Computer Science (Udacity)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress:** Finish coding "calculating days between dates". 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** It was good for understanding small but essential structure of coding.
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
