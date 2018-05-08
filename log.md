@@ -16,3 +16,11 @@
 
 **Thoughts:** It was good for understanding small but essential structure of coding.
 
+### Day 3: May 8, 2018
+
+**Working on:** Intro to Computer Science (Udacity)
+
+**Today's Progress:** Learning basic data structure, which is list. Difference between mutable and immutable.
+
+**Thoughts:** I have a basic knowledge of computer science and coding, but difference between mutable and immutable data structure was interesting enough.
+
