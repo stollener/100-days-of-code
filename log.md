@@ -24,3 +24,10 @@
 
 **Thoughts:** I have a basic knowledge of computer science and coding, but difference between mutable and immutable data structure was interesting enough.
 
+### Day 4: May 9, 2018
+
+**Working on:** Intro to Computer Science (Udacity)
+
+**Today's Progress:** Learning to use for loop with list data. And now get back to web crawler thing (using list to store the url list).
+
+**Thoughts:** I think this online course is great combination of lecture and 'do it by yourself'. More of lecture type, but still good for beginners.
