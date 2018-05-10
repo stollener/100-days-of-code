@@ -31,3 +31,13 @@
 **Today's Progress:** Learning to use for loop with list data. And now get back to web crawler thing (using list to store the url list).
 
 **Thoughts:** I think this online course is great combination of lecture and 'do it by yourself'. More of lecture type, but still good for beginners.
+
+### Day 5: May 10, 2018
+
+**Working on:** Intro to Computer Science (Udacity)
+
+**Today's Progress:** Coding problems related to crawling urls.
+
+**Thoughts:** I'm stuck in the problem of crawling under max depth restriction. There's a "View Answer" button right under the question, but I'll think deep until tomorrow for waiting good idea coming out of my head.
+
+
