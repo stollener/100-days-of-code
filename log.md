@@ -40,4 +40,13 @@
 
 **Thoughts:** I'm stuck in the problem of crawling under max depth restriction. There's a "View Answer" button right under the question, but I'll think deep until tomorrow for waiting good idea coming out of my head.
 
+### Day 6: May 11, 2018
+
+**Working on:** Intro to Computer Science (Udacity)
+
+**Today's Progress:** Finish crawling module. Problem sets about checking validation of sudoku, symmetric square, etc.
+
+**Thoughts:** It's not easy to find a solution for each problem set. But it's worth time, and interesting to do.
+
+
 
