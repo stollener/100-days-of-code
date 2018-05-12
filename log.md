@@ -52,7 +52,7 @@
 
 **Working on:** Intro to Computer Science (Udacity)
 
-**Today's Progress:** Learn about data structure and internet protocol(very basic level). Solve various problem sets.
+**Today's Progress:** Learn about data structure and internet protocol(very basic level). Improve web crawler to have lookup procedure and index to search the url by keyword. Solve various problem sets.
 
 **Thoughts:** I think I'm still cannot think like computer (computational thinking). Coding(solving the problems) are interesting, and I hope it's a small but steady step to be a programmer.
 
