@@ -48,5 +48,11 @@
 
 **Thoughts:** It's not easy to find a solution for each problem set. But it's worth time, and interesting to do.
 
+### Day 7: May 12, 2018
 
+**Working on:** Intro to Computer Science (Udacity)
+
+**Today's Progress:** Learn about data structure and internet protocol(very basic level). Solve various problem sets.
+
+**Thoughts:** I think I'm still cannot think like computer (computational thinking). Coding(solving the problems) are interesting, and I hope it's a small but steady step to be a programmer.
 
