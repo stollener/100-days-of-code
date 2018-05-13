@@ -56,3 +56,12 @@
 
 **Thoughts:** I think I'm still cannot think like computer (computational thinking). Coding(solving the problems) are interesting, and I hope it's a small but steady step to be a programmer.
 
+### Day 8: May 13, 2018
+
+**Working on:** Intro to Computer Science (Udacity) / Python 3 Tutorial (SoloLearn)
+
+**Today's Progress:** In CS101, learned to make hash table and function for better indexing of data. It improves lookup function much faster than simple list. And in SoloLearn, started to learn basic concepts.
+
+**Thoughts:** It's quite impressive to see way faster lookup using hash function. And actually I already had finished the SoloLearn tutorial months ago, but wanted to remind me of the grammar of Python.
+
+
