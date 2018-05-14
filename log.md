@@ -64,4 +64,12 @@
 
 **Thoughts:** It's quite impressive to see way faster lookup using hash function. And actually I already had finished the SoloLearn tutorial months ago, but wanted to remind me of the grammar of Python.
 
+### Day 9: May 14, 2018
+
+**Working on:** Intro to Computer Science (Udacity) / Python 3 Tutorial (SoloLearn)
+
+**Today's Progress:** Solving many problem sets. - Dictionary exercises. Refactoring (make functions more organized). Memoization (make cache function for repeated calculation). Rotating the letters (using ord() and chr() function).
+
+**Thoughts:** It's still interesting to learn new things. For example, I heard a lot about refactoring from podcast or in the internet, but didn't know what it is. But now, I know basic concept of the term. I already imagine the day I code useful apps or websites.
+
 
