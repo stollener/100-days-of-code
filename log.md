@@ -72,4 +72,13 @@
 
 **Thoughts:** It's still interesting to learn new things. For example, I heard a lot about refactoring from podcast or in the internet, but didn't know what it is. But now, I know basic concept of the term. I already imagine the day I code useful apps or websites.
 
+### Day 10: May 15, 2018
+
+**Working on:** Intro to Computer Science (Udacity) / Python 3 Tutorial (SoloLearn)
+
+**Today's Progress:** Learning about recursive procedures and PageRank method for best search result.
+
+**Thoughts:** Straight 10 days of learning, I couldn't have done this before! I feel the power of 100 Days of Code project.
+
+
 
