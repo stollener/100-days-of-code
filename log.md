@@ -80,5 +80,12 @@
 
 **Thoughts:** Straight 10 days of learning, I couldn't have done this before! I feel the power of 100 Days of Code project.
 
+### Day 11: May 16, 2018
+
+**Working on:** Intro to Computer Science (Udacity) / Python 3 Tutorial (SoloLearn)
+
+**Today's Progress:** Solved problem sets regarding recursive procedure.
+
+**Thoughts:** Tough problems, but tried hard to solve them.
 
 
