@@ -88,4 +88,19 @@
 
 **Thoughts:** Tough problems, but tried hard to solve them.
 
+### Day 12: May 17, 2018
+
+**Working on:** Python 3 Tutorial (SoloLearn)
+
+**Today's Progress:** Learn Python grammar with SoloLearn app on the go.
+
+**Thoughts:** Came home from work late at night, and had a no time to code at udacity course.
+
+### Day 13: May 18, 2018
+
+**Working on:** Intro to Computer Science (Udacity) / Python 3 Tutorial (SoloLearn)
+
+**Today's Progress:** Solved two problem sets (recursively making quick sort procedure), and some lessons about computer science history.
+
+**Thoughts:** I'm happy that I already at 95% of the Udacity course. 100 Days of Code program really helps me.
 
