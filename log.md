@@ -104,3 +104,10 @@
 
 **Thoughts:** I'm happy that I already at 95% of the Udacity course. 100 Days of Code program really helps me.
 
+### Day 14: May 20, 2018
+
+**Working on:** Intro to Computer Science (Udacity)
+
+**Today's Progress:** Watched final lectures about past and futures of computer science, and solved some cumulative practice problems.
+
+**Thoughts:** As I skipped a day enjoying Seoul Jazz Festival, it's hard to come back to coding mind.
