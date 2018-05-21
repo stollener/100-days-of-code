@@ -111,3 +111,13 @@
 **Today's Progress:** Watched final lectures about past and futures of computer science, and solved some cumulative practice problems.
 
 **Thoughts:** As I skipped a day enjoying Seoul Jazz Festival, it's hard to come back to coding mind.
+
+### Day 15: May 21, 2018
+
+**Working on:** Intro to Computer Science (Udacity)
+
+**Today's Progress:** Keep practicing final problems of CS101 @udacity.
+
+**Thoughts:** One problem is difficult to solve, so I postponed it for tomorrow. I guess I can finish the course by tomorrow. Feel like I'm becoming lazy after I skipped a day. Have to more concentrate on the project.
+
+
