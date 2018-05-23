@@ -120,4 +120,20 @@
 
 **Thoughts:** One problem is difficult to solve, so I postponed it for tomorrow. I guess I can finish the course by tomorrow. Feel like I'm becoming lazy after I skipped a day. Have to more concentrate on the project.
 
+### Day 16: May 22, 2018
+
+**Working on:** Intro to Computer Science (Udacity) / Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished all the problem sets from CS101 at Udacity, but only a final problem remains. And started Front End Development Certification course at freeCodeCamp.org.
+
+**Thoughts:** I'll keep the Udacity's problem unsolved for now. It's a little bit difficult problem, and I'll get back when I finish the freeCodeCamp's Front End course. I think it's more valuable for me to start freeCodeCamp course.
+
+### Day 17: May 23, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished "HTML and CSS" section of Front End Development Certification course. - ul, ol, input, form, button, div, class, id, padding, margin, hex code, ...
+
+**Thoughts:** I've seen most of the tags before, but it's still meaningful to remind me of the basic grammar of html and css. And from tomorrow, I'll begin Bootstrap section, and then there will be jQuery and so on. I'm happy to study and code.
+
 
