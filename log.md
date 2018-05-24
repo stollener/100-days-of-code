@@ -136,4 +136,11 @@
 
 **Thoughts:** I've seen most of the tags before, but it's still meaningful to remind me of the basic grammar of html and css. And from tomorrow, I'll begin Bootstrap section, and then there will be jQuery and so on. I'm happy to study and code.
 
+### Day 18: May 24, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished "Responsive design with Bootstrap" section of Front End Development Certification course.
+
+**Thoughts:** It's easy and fun to study at freeCodeCamp.
 
