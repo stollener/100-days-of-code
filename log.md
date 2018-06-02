@@ -144,3 +144,78 @@
 
 **Thoughts:** It's easy and fun to study at freeCodeCamp.
 
+### Day 19: May 25, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished jQuery section of @freeCodeCamp. I’ll work on the tribute page project for days.
+
+**Thoughts:** (Only mentioning progress as I couldn't updated the progress here directly, but only at twitter.)
+
+### Day 20: May 26, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** 1) Thinking for whom I make the tribute page. (Not decided yet) 2) Watched “Git & Github” in FCC YouTube.
+
+**Thoughts:** (Only mentioning progress as I couldn't updated the progress here directly, but only at twitter.)
+
+### Day 21: May 27, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Continue working on Tribute Page project @freeCodeCamp. 
+
+**Thoughts:** It's not perfectly matched to 'tribute' thing, but I decided to fill in about 'programming languages'. Will focus on making as simillar as possible to example page style.
+
+### Day 22: May 28, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished 'Tribute page' project from @freeCodeCamp.
+
+**Thoughts:** It's ugly but I'm happy I finished my first project page.
+
+**Link:** https://codepen.io/stollener/full/NMZBBR
+
+### Day 23: May 29, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Start working on personal portfolio page @freeCodeCamp front-end dev course. Read Bootstrap docs to do the project.
+
+**Thoughts:** (Only mentioning progress as I couldn't updated the progress here directly, but only at twitter.)
+
+### Day 24: May 30, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org)
+
+**Today's Progress:** Read Bootstrap offical docs - container, grid section. And coded minor things on personal portfolio page project for #freeCodeCamp course.
+
+**Thoughts:** (Only mentioning progress as I couldn't updated the progress here directly, but only at twitter.)
+
+### Day 25: May 31, 2018
+
+**Working on:** Front End Development Certification (freeCodeCamp.org) -> Responsive Web Design Certification (freeCodeCamp.org) (Certification title changed after the site's renovation.)
+
+**Today's Progress:** Now started Applied visual design section. 
+
+**Thoughts:** Little bit confused by renovated #freeCodeCamp. As curriculum structure changed while I’m working on the project, I have to go back to updated modules to learn.
+
+### Day 26: Jun 1, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Keep studying Applied Visual Design section @freeCodeCamp.
+
+**Thoughts:** (Only mentioning progress as I couldn't updated the progress here directly, but only at twitter.)
+
+### Day 27: Jun 2, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Learning Applied visual design section @freeCodeCamp. 
+
+**Thoughts:** I've been lazy recently. Anyway, it's still great to continue the challenge without giving up.
+
+
