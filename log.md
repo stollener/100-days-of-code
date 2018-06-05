@@ -218,4 +218,27 @@
 
 **Thoughts:** I've been lazy recently. Anyway, it's still great to continue the challenge without giving up.
 
+### Day 28: Jun 3, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished Applied visual design section @freeCodeCamp.
+
+**Thoughts:** Fun to play with CSS animation.
+
+### Day 29: Jun 4, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Started applied accessibility challenges @freeCodeCamp.
+
+**Thoughts:** It’s now a basic human right to access web without difficulty, for all the people.
+
+### Day 30: Jun 5, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished Applied Accessibility and Responsive Web Design Principles challenges @freeCodeCamp. And saw a @ossia's interview on How to teach yourself code on YouTube - https://youtu.be/qZKvZzRynLE .
+
+**Thoughts:** Accomplished 30 days of #100DaysOfCode. It's one month! After two months, I hope I can't live a day without coding😆
 
