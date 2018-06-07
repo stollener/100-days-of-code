@@ -242,3 +242,18 @@
 
 **Thoughts:** Accomplished 30 days of #100DaysOfCode. It's one month! After two months, I hope I can't live a day without coding😆
 
+### Day 31: Jun 6, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished CSS Flexbox section @freeCodeCamp early in the morning.
+
+**Thoughts:** ...
+
+### Day 32: Jun 7, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished CSS Grid section @freeCodeCamp. Made the Tribute Page again to follow new rules of the project. And w/o using Bootstrap. Only set img to have max-width value for responsiveness, so looks ugly, even though passed the test.
+
+**Thoughts:** Finished all the challenges of the Responsive Web Design Certification. Will practive with projects.
