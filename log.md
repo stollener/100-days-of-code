@@ -258,6 +258,8 @@
 
 **Thoughts:** Finished all the challenges of the Responsive Web Design Certification. Will practive with projects.
 
+**Link:** https://codepen.io/stollener/full/ERgdwV/
+
 ### Day 33: Jun 8, 2018
 
 **Working on:** Responsive Web Design Certification (freeCodeCamp.org)
