@@ -257,3 +257,14 @@
 **Today's Progress:** Finished CSS Grid section @freeCodeCamp. Made the Tribute Page again to follow new rules of the project. And w/o using Bootstrap. Only set img to have max-width value for responsiveness, so looks ugly, even though passed the test.
 
 **Thoughts:** Finished all the challenges of the Responsive Web Design Certification. Will practive with projects.
+
+### Day 33: Jun 8, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished Survey Form project @freeCodeCamp.
+
+**Thoughts:**  Not satisfied with responsiveness and design, but seems enough as a minimum viable product for now.
+
+**Link:** https://codepen.io/stollener/full/pKNjWy/
+
