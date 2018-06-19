@@ -270,3 +270,90 @@
 
 **Link:** https://codepen.io/stollener/full/pKNjWy/
 
+### Day 34: Jun 9, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Started Product landing page project @freeCodeCamp. Set the frame of html structure and css layout. Will add contents and make it looking better tomorrow.
+
+**Thoughts:**  
+
+### Day 35: Jun 10, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished Product landing page project @freeCodeCamp. The product is Javascript, even though I don't know anything about it.
+
+**Thoughts:**  Seems no problem, only except that navbar is not fixed on the top position in mobile browser🤔.
+
+### Day 36: Jun 11, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Started Technical document page project @freeCodeCamp.
+
+**Thoughts:** 
+
+### Day 37: Jun 12, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished Technical Documentation Page project @freeCodeCamp. Step by step to practicing html and css.
+
+**Thoughts:** 
+
+### Day 38: Jun 13, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** I'm not sure this can be counted for #100DaysOfCode challenge. Anyway wireframed the page for @freeCodeCamp's Personal Portfolio project.
+
+**Thoughts:** Using @AdobeXD for this process, and it's fun and easy to use. (I don't have any design skill or experience.)
+
+### Day 39: Jun 14, 2018
+
+**Working on:** Responsive Web Design Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished the Personal portfolio project. And acquired Responsive Web Design certification! It's my first certificate from @freeCodeCamp.
+
+**Thoughts:** 
+
+### Day 40: Jun 15, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Started basic challenges from Javascript algorithms and data structures certification @freeCodeCamp.
+
+**Thoughts:** Need more study of html & css simultaneously.
+
+### Day 41: Jun 16, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Keep learning basic Javascript challenges of #freeCodeCamp. And installed Visual Studio @code, which seems to be used by many web developers. Tested it with Hello World page.
+
+**Thoughts:** 
+
+### Day 42: Jun 17, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Studying basic JS challenges at #freeCodeCamp; Comparing to Python, you shouldn’t forget “semicolon” in javascript;
+
+**Thoughts:** 
+
+### Day 43: Jun 18, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Continue studying basic javascript challenges of #freeCodeCamp. Mostly about if and switch statements.
+
+**Thoughts:** 
+
+### Day 44: Jun 19, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Still on basic javascript challenges.
+
+**Thoughts:** It's not easy to learn coding after work on weekdays. Getting sleepy...😴
