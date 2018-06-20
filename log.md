@@ -357,3 +357,12 @@
 **Today's Progress:** Still on basic javascript challenges.
 
 **Thoughts:** It's not easy to learn coding after work on weekdays. Getting sleepy...😴
+
+### Day 45: Jun 20, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished Basic javascript lessons at #freeCodeCamp.
+
+**Thoughts:** Almost got stuck on some problem, but solved finally.
+
